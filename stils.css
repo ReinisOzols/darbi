@@ -1,3 +1,12 @@
-.pavasaris{
+.virsraksti{
   color: green;
+}
+.virsraksti4{
+  color: lightgreen;
+}
+#saraksts{
+  color:orange;
+}
+#izcelums{
+  color:red;
 }

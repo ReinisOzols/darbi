@@ -7,4 +7,12 @@
 #saraksts{
   color:orange;
 }
-#
+#izcelums{
+  color:red;
+}
+img{
+  width:200px;
+  height:120px;
+  border:8px solid lightgreen;
+  border-radius: 20%;
+}

@@ -25,10 +25,10 @@ h1 {
 img {
   width: 200px;
   height: 120px;
-  border: double;
-  border-width: 10px;
-  border-color: #243364;
-  border-radius: 10% 0;
+  border: dotted;
+  border-width: 5px;
+  border-color: red;
+  border-radius: 50% 50% 0 0;
 }
 .kp {
   float: left;
@@ -38,4 +38,9 @@ img {
 .rl {
   background-color: white;
   padding: 14px 25px;
+}
+.lp {
+  float: right;
+  width: 20%;
+  padding: 20px;
 }

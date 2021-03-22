@@ -4,5 +4,23 @@ body {
 p {
   font-size: 20px;
 }
-div {color: red;}
-h1 {color: lightgreen;text-align: center;border-style:dotted;}
+div {
+  color: red;
+}
+h1 {
+  color: green;
+  text-align: center;
+  border-style: dotted;
+  background-color: lightgreen;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  margin: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.vr2 {
+  color: blue;
+  font-style: italic;
+  font-size: 23px;
+}
+#t1{color:light}

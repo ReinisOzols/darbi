@@ -1,30 +1,26 @@
 body {
-  background-color: lightyellow;
+  background-color: lightgreen;
 }
 p {
   font-size: 20px;
 }
-div {
-  color: red;
-}
 h1 {
-  color: green;
+  color: purple;
   text-align: center;
   border-style: dotted;
-  background-color: lightgreen;
-  padding-top: 10px;
-  padding-bottom: 25px;
-  margin: 100px;
-  padding-left: 10px;
-  padding-right: 10px;
+  background-color: white;
+  margin: 50px;
+  padding-left: 80px;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .vr2 {
-  color: blue;
+  color: darkgreen;
   font-style: italic;
-  font-size: 23px;
 }
 #t1 {
-  color: orange;
+  color: blue;
 }
 #t2 {
   font-size: 20px;

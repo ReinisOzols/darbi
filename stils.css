@@ -22,17 +22,6 @@ h1 {
 #t1 {
   color: blue;
 }
-#t2 {
-  font-size: 20px;
-  background-color: orange;
-  margin-right: 20cm;
-}
-#t3 {
-  padding: 2cm;
-  background: #5267AC;
-  margin-right: 11cm;
-  color: #D4D6DC;
-}
 img {
   width: 200px;
   height: 120px;
@@ -40,4 +29,13 @@ img {
   border-width: 10px;
   border-color: #243364;
   border-radius: 10% 0;
+}
+.kp {
+  float: left;
+  width: 70%;
+  padding: 20px;
+}
+.rl {
+  background-color: white;
+  padding: 14px 25px;
 }

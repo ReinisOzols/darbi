@@ -23,4 +23,17 @@ h1 {
   font-style: italic;
   font-size: 23px;
 }
-#t1{color:light}
+#t1 {
+  color: orange;
+}
+#t2 {
+  font-size: 20px;
+  background-color: orange;
+  margin-right: 20cm;
+}
+#t3 {
+  padding: 2cm;
+  background: #5267AC;
+  margin-right: 11cm;
+  color: #D4D6DC;
+}

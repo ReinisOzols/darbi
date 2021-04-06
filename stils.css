@@ -8,8 +8,20 @@ p {
   font-size: 20px;
 }
 #saturs {
+  color: #dee2e6;
   text-align: center;
-  
+  border-style: double;
+  background-color: #6c757d;
+  margin: 50px;
+}
+#klimats {
+  float: left;
+}
+#apraksts {
+            margin-left: 40%;
+}
+#kjoslas {
+  float: right;
 }
 .mainheading {
   color: #dee2e6;

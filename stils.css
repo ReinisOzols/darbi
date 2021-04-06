@@ -14,14 +14,17 @@ p {
   background-color: #6c757d;
   margin: 50px;
 }
-#klimats {
+.left {
   float: left;
   margin-left: 50px;
 }
-#apraksts {
+#mid {
   margin-left: 40%;
 }
-#kjoslas {
+#mid2 {
+  margin-left: 20%;
+}
+.right {
   float: right;
   margin-right: 50px;
 }
@@ -43,13 +46,14 @@ p {
   font-size: 25px;
 }
 img {
-  width: 200px;
-  height: 120px;
+  width: 300px;
+  height: 210px;
   border: double;
-  border-width: 5px;
+  border-width: 3px;
   color: #dee2e6;
   background-color: #6c757d;
   border-radius: 50% 50% 0 0;
+  padding: 20px;
 }
 .kp {
   float: left;

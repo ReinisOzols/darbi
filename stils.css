@@ -16,12 +16,14 @@ p {
 }
 #klimats {
   float: left;
+  margin-left: 50px;
 }
 #apraksts {
-            margin-left: 40%;
+  margin-left: 40%;
 }
 #kjoslas {
   float: right;
+  margin-right: 50px;
 }
 .mainheading {
   color: #dee2e6;
@@ -43,9 +45,10 @@ p {
 img {
   width: 200px;
   height: 120px;
-  border: dotted;
+  border: double;
   border-width: 5px;
-  border-color: red;
+  color: #dee2e6;
+  background-color: #6c757d;
   border-radius: 50% 50% 0 0;
 }
 .kp {

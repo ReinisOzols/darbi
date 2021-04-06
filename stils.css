@@ -1,14 +1,14 @@
 body {
-  background-color:6d6875;
+  background-color: #dee2ff;
 }
 p {
   font-size: 20px;
 }
 .mainheading {
-  color: purple;
+  color: #8e9aaf;
   text-align: center;
   border-style: dotted;
-  background-color: white;
+  background-color: #feeafa;
   margin: 50px;
   padding-left: 80px;
   padding-right: 30px;
@@ -18,7 +18,7 @@ p {
 .heading {
   color: darkgreen;
   font-style: italic;
-  font-size:25px
+  font-size: 25px;
 }
 img {
   width: 200px;
@@ -42,7 +42,8 @@ img {
   width: 20%;
   padding: 20px;
 }
-a:link, a:visited {
+a:link,
+a:visited {
   background-color: white;
   color: black;
   border: 2px solid green;
@@ -52,6 +53,9 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
-  background-color: green;
-  color: white;
+a:hover,
+a:active {
+  background-color: #cbc0d3;
+  color: black;
+  border-color:red
+}

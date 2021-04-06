@@ -1,5 +1,5 @@
 body {
-  background-color: #212529;
+  background: #212529;
   font-family: "Rationale", sans-serif;
   color: #dee2e6;
 }
@@ -9,7 +9,7 @@ p {
 }
 #saturs {
   color: #dee2e6;
-  background-color: #212529;
+  background: #212529;
   text-align: center;
   border: 2px solid;
   margin: 50px;
@@ -33,7 +33,7 @@ p {
 }
 .mainheading {
   color: #dee2e6;
-  background-color: #212529;
+  background: #212529;
   text-align: center;
   border: 3px solid;
   border-radius: 100px 100px 3px 3px;
@@ -51,36 +51,27 @@ img {
   height: 210px;
   border: 3px solid;
   color: #dee2e6;
-  background-color: #6c757d;
+  background: #6c757d;
   border-radius: 200px 200px 3px 3px;
   padding: 20px;
 }
 .rl {
   color: #dee2e6;
-  background-color: #212529;
+  background: #212529;
   padding: 14px 25px;
 }
-.kp {
-  background-color: #6c757d;
+.box {
+  background: #6c757d;
   border: 3px solid #dee2e6;
   border-radius: 3px;
   width: 750px;
   padding: 20px;
   margin-left: 50px;
 }
-
-.lp {
-  background-color: #6c757d;
-  border: 3px solid #dee2e6;
-  border-radius: 3px;
-  width: 750px;
-  padding: 20px;
-  margin-right: 50px;
-}
 a:link,
 a:visited {
   color: #dee2e6;
-  background-color: #6c757d;
+  background: #6c757d;
   border: 2px solid #dee2e6;
   border-radius: 3px;
   padding: 10px 20px;
@@ -91,19 +82,18 @@ a:visited {
 
 a:hover,
 a:active {
-  background-color: white;
+  background: white;
   color: black;
   border-color: black;
 }
 .pogas {
   display: flex;
   justify-content: space-between;
-  margin: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
-.texts::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  height: 50px;
-  background: white;
+.boxplace {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 50px;
 }

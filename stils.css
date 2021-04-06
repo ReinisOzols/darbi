@@ -47,7 +47,7 @@ img {
   padding: 14px 25px;
 }
 .box {
-  background: #6c757d;
+  background: #212529;
   border: 3px solid #dee2e6;
   border-radius: 3px;
   width: 750px;
@@ -65,7 +65,6 @@ a:visited {
   text-decoration: none;
   display: inline-block;
 }
-
 a:hover,
 a:active {
   background: white;

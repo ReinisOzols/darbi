@@ -3,7 +3,6 @@ body {
   font-family: "Rationale", sans-serif;
   color: #dee2e6;
 }
-
 p {
   font-size: 20px;
 }
@@ -11,7 +10,6 @@ p {
   color: #dee2e6;
   background-color: #212529;
   text-align: center;
-  border-style: solid;
   border: 2px solid;
   margin: 50px;
   border-radius: 3px;
@@ -50,27 +48,27 @@ p {
 img {
   width: 300px;
   height: 210px;
-  border: solid;
-  border-width: 3px;
+  border: 3px solid;
   color: #dee2e6;
   background-color: #6c757d;
   border-radius: 200px 200px 3px 3px;
   padding: 20px;
-}
-.kp {
-  background-color: #6c757d;
-  border-style: solid;
-  border-radius: 3px;
-  float: left;
-  width: 750px;
-  padding: 20px;
-  margin-left: 50px;
 }
 .rl {
   color: #dee2e6;
   background-color: #212529;
   padding: 14px 25px;
 }
+.kp {
+  background-color: #6c757d;
+  border: 3px solid #dee2e6;
+  border-radius: 3px;
+  float: left;
+  width: 750px;
+  padding: 20px;
+  margin-left: 50px;
+}
+
 .lp {
   background-color: #6c757d;
   border: 3px solid #dee2e6;

@@ -64,7 +64,6 @@ img {
   background-color: #6c757d;
   border: 3px solid #dee2e6;
   border-radius: 3px;
-  float: left;
   width: 750px;
   padding: 20px;
   margin-left: 50px;
@@ -74,7 +73,6 @@ img {
   background-color: #6c757d;
   border: 3px solid #dee2e6;
   border-radius: 3px;
-  float: right;
   width: 750px;
   padding: 20px;
   margin-right: 50px;
@@ -96,4 +94,16 @@ a:active {
   background-color: white;
   color: black;
   border-color: black;
+}
+.pogas {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+.texts::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  background: white;
 }

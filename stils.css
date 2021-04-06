@@ -41,8 +41,8 @@ p {
   padding-top: 50px;
   padding-bottom: 50px;
   border-radius: 100px 100px 3px 3px;
-    border-style: solid;
-    border-width: 3px;
+  border-style: solid;
+  border-width: 3px;
 }
 .heading {
   color: darkgreen;
@@ -60,18 +60,27 @@ img {
   padding: 20px;
 }
 .kp {
+  background-color: #6c757d;
+  border-style: solid;
+  border-radius: 3px;
   float: left;
   width: 600px;
   padding: 20px;
+  margin-left:50px;
 }
 .rl {
-  background-color: white;
+  color: #dee2e6;
+  background-color: #212529;
   padding: 14px 25px;
 }
 .lp {
+  background-color: #6c757d;
+  border-style: solid;
+  border-radius: 3px;
   float: right;
   width: 20%;
   padding: 20px;
+  margin-right:50px;
 }
 a:link,
 a:visited {

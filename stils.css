@@ -4,9 +4,6 @@ body {
   color: #dee2e6;
 }
 
-p {
-  font-size: 20px;
-}
 #saturs {
   color: #dee2e6;
   background: #212529;
@@ -17,7 +14,7 @@ p {
   vertical-align: middle;
   padding: 3px;
 }
-.mainheading {
+h1{
   color: #dee2e6;
   background: #212529;
   text-align: center;

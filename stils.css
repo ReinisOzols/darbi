@@ -17,20 +17,6 @@ p {
   vertical-align: middle;
   padding: 3px;
 }
-.left {
-  float: left;
-  margin-left: 50px;
-}
-#mid {
-  margin-left: 750px;
-}
-#mid2 {
-  margin-left: 375px;
-}
-.right {
-  float: right;
-  margin-right: 50px;
-}
 .mainheading {
   color: #dee2e6;
   background: #212529;

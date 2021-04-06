@@ -15,10 +15,11 @@ p {
   margin: 50px;
 }
 .left {
+  float:left;
   margin-left: 50px;
 }
 #mid {
-  margin-left: 750px;
+  margin-left: 750px;`
 }
 #mid2 {
   margin-left: 20%;

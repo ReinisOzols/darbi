@@ -6,8 +6,8 @@ body {
 }
 
 #saturs {
-  color: #dee2e6;
-  background: #212529;
+  color: #212529;
+  background: #dee2e6;
   text-align: center;
   border: 2px solid;
   border-radius: 3px;
@@ -38,12 +38,12 @@ img {
   padding: 20px;
 }
 .rl {
-  color: #dee2e6;
-  background: #212529;
+  color: #212529;
+  background: #dee2e6;
   padding: 14px 25px;
 }
 .box {
-  background: #212529;
+  background: #dee2e6;
   border: 3px solid #dee2e6;
   border-radius: 3px;
   width: 750px;
@@ -71,5 +71,5 @@ img {
   justify-content: space-between;
 }
 a {
-  color: #dee2e6;
+  color: #212529;
 }

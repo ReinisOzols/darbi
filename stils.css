@@ -66,11 +66,7 @@ a:active {
   color: black;
   border-color: black;
 }
-.pogas {
-  display: flex;
-  justify-content: space-between;
-}
-.boxplace {
+.izkartojums {
   display: flex;
   justify-content: space-between;
 }

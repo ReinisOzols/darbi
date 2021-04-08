@@ -2,7 +2,7 @@ body {
   background: #212529;
   font-family: "Rationale", sans-serif;
   color: #dee2e6;
-  margin:50px
+  margin: 50px;
 }
 
 #saturs {
@@ -14,7 +14,7 @@ body {
   vertical-align: middle;
   padding: 3px;
 }
-h1{
+h1 {
   color: #dee2e6;
   background: #212529;
   text-align: center;
@@ -49,8 +49,8 @@ img {
   width: 750px;
   padding: 20px;
 }
-a:link,
-a:visited {
+.poga:link,
+.poga:visited {
   color: #dee2e6;
   background: #6c757d;
   border: 2px solid #dee2e6;
@@ -60,8 +60,8 @@ a:visited {
   text-decoration: none;
   display: inline-block;
 }
-a:hover,
-a:active {
+.poga:hover,
+.poga:active {
   background: white;
   color: black;
   border-color: black;
@@ -69,4 +69,7 @@ a:active {
 .izkartojums {
   display: flex;
   justify-content: space-between;
+}
+a {
+  color: #dee2e6;
 }

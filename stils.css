@@ -3,10 +3,15 @@ body {
   font-family: "Rationale", sans-serif;
   color: #dee2e6;
   margin: 50px;
+  background-image: url("https://cdn.glitch.com/f2f0c535-bb39-4d70-9aca-c3982e5d065d%2Fblack-men-naked-gay-sex-11-500x333.jpg?v=1617992637756");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.bg {
-  /* The image used */
-  background-image: url("https://cdn.glitch.com/f2f0c535-bb39-4d70-9aca-c3982e5d065d%2F6dde4643-2636-46fc-a9de-9271de4d0aca.image.png?v=1617695552605");
+body,
+html {
+  height: 100%;
 }
 #saturs {
   color: #2b2d42;

@@ -8,15 +8,6 @@ body,
 html {
   height: 100%;
 }
-#saturs {
-  color: #212529;
-  background: #dee2e6;
-  text-align: center;
-  border: 2px solid;
-  border-radius: 3px;
-  vertical-align: middle;
-  padding: 3px;
-}
 h1 {
   color: #dee2e6;
   background: #212529;
@@ -62,6 +53,7 @@ img {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  width: 150px;
 }
 .poga:hover,
 .poga:active {

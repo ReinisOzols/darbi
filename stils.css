@@ -1,8 +1,8 @@
 body {
   background: #ffffff;
-  font-family: "Rationale", sans-serif;
   color: #d90429;
   margin: 50px;
+  font-family: 'Open Sans', sans-serif;
 }
 body,
 html {
@@ -23,7 +23,7 @@ h1 {
   font-size: 25px;
 }
 img {
-  width: 300px;
+  width: 100px;
   height: 210px;
   border: 3px solid;
   color: black;

@@ -54,6 +54,7 @@ img {
   display: inline-block;
   width: 150px;
   font-size:20px;
+  border-bottom: 3px solid rgba(0, 0, 0, 0);
 }
 .poga:hover,
 .poga:active {

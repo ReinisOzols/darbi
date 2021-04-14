@@ -2,6 +2,7 @@ body {
   background: #ffffff;
   color: #d90429;
   font-family: "Barlow", sans-serif;
+  font-size:20px;
 }
 body,
 html {
@@ -16,11 +17,6 @@ h1 {
   border-radius: 100px 100px 3px 3px;
   font-size: 40px;
 }
-.heading {
-  color: darkgreen;
-  font-style: italic;
-  font-size: 25px;
-}
 img {
   width: 600px;
   height: 420px;
@@ -30,7 +26,7 @@ img {
   border-radius: 3px;
   padding: 0px;
   margin-bottom: 50px;
-  margin-top:50px;
+  margin-top: 50px;
 }
 .rl {
   color: black;

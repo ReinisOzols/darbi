@@ -29,6 +29,7 @@ img {
   background: #ffffff;
   border-radius: 3px;
   padding: 0px;
+  margin-bottom:50px;
 }
 .rl {
   color: black;
@@ -70,4 +71,11 @@ a {
 }
 hr {
   color: #d90429;
+}
+.box2 {
+  background: #ffffff;
+  border: 3px solid rgba(0,0,0,0);
+  border-radius: 3px;
+  width: 450px;
+  padding: 20px;
 }

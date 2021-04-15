@@ -72,3 +72,14 @@ hr {
 b {
   color: #d90429;
 }
+#img{
+  width: 600px;
+  height: 800px;
+  border: 0px solid;
+  color: black;
+  background: #ffffff;
+  border-radius: 3px;
+  padding: 0px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}

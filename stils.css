@@ -2,7 +2,7 @@ body {
   background: #ffffff;
   color: #d90429;
   font-family: "Barlow", sans-serif;
-  font-size:20px;
+  font-size: 20px;
 }
 body,
 html {
@@ -64,7 +64,7 @@ img {
   justify-content: space-evenly;
 }
 a {
-  color: black;
+  color: #d90429;
 }
 hr {
   color: #d90429;
@@ -72,7 +72,7 @@ hr {
 b {
   color: #d90429;
 }
-#img{
+#img {
   width: 600px;
   height: 800px;
   border: 0px solid;
@@ -83,7 +83,7 @@ b {
   margin-bottom: 50px;
   margin-top: 50px;
 }
-#img2{
+#img2 {
   width: 600px;
   height: 899px;
   border: 0px solid;
@@ -93,4 +93,8 @@ b {
   padding: 0px;
   margin-bottom: 50px;
   margin-top: 50px;
+}
+iframe {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }

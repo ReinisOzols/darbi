@@ -99,4 +99,12 @@ iframe {
   margin-top: 50px;
   margin-bottom: 50px;
 }
-table,th,tr,td{border:3px solid #ffffff;}
+table,
+th,
+tr,
+td {
+  border: 3px solid #ffffff;
+}
+iframe {
+  margin-bottom: 0px;
+}

@@ -9,13 +9,14 @@ html {
   height: 100%;
 }
 h1 {
-  font-family: "Kaushan Script", cursive;
+  font-family: 'Montserrat', sans-serif;
   color: #d90429;
   background: #ffffff;
   text-align: center;
   border: 0px solid;
   border-radius: 100px 100px 3px 3px;
   font-size: 40px;
+  font-weight:500;
 }
 img {
   width: 1080px;

@@ -9,14 +9,14 @@ html {
   height: 100%;
 }
 h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #d90429;
   background: #ffffff;
   text-align: center;
   border: 0px solid;
   border-radius: 100px 100px 3px 3px;
   font-size: 40px;
-  font-weight:500;
+  font-weight: 500;
 }
 img {
   width: 1080px;
@@ -105,7 +105,4 @@ th,
 tr,
 td {
   border: 3px solid #ffffff;
-}
-iframe {
-  margin-bottom: 0px;
 }

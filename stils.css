@@ -97,10 +97,11 @@ b {
   margin-top: 50px;
 }
 iframe {
-  width: 1080px height:60px
+  width: 1080px;
+  height: 607px;
   margin-top: 50px;
   margin-bottom: 50px;
-  frameborder="0"
+  border: none;
 }
 table,
 th,
